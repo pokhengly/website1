@@ -1,0 +1,6 @@
+.col {
+    width: 50%;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: auto;
+}
